@@ -1,0 +1,4513 @@
+{
+    "metadata": {
+        "timestamp": "2026-05-22T12:02:50.812545",
+        "total_casos": 500,
+        "status_contagem": {
+            "Concluído": 294,
+            "Em Andamento": 103,
+            "Parado": 103
+        }
+    },
+    "detalhes": [
+        {
+            "id": 1,
+            "loja": "Global Motors",
+            "valor": 199233.8151729917,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 2,
+            "loja": "Vip Veículos",
+            "valor": 60865.6078713595,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 3,
+            "loja": "AutoClick Veículos",
+            "valor": 181937.05972172535,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 4,
+            "loja": "Global Motors",
+            "valor": 102842.01213401656,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 5,
+            "loja": "FastCred Financiamentos",
+            "valor": 56078.67717308607,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 6,
+            "loja": "Elite Autos",
+            "valor": 134205.5829147559,
+            "status": "Parado",
+            "data_inicio": "2026-04-07",
+            "dias_parado": 45,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 7,
+            "loja": "Global Motors",
+            "valor": 37071.06831349543,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 8,
+            "loja": "FastCred Financiamentos",
+            "valor": 32964.98239111678,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 9,
+            "loja": "FastCred Financiamentos",
+            "valor": 102961.7280785641,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 10,
+            "loja": "Global Motors",
+            "valor": 150557.86139154845,
+            "status": "Concluído",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 11,
+            "loja": "Vip Veículos",
+            "valor": 161079.47475547314,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 12,
+            "loja": "FastCred Financiamentos",
+            "valor": 62284.03249886813,
+            "status": "Concluído",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 13,
+            "loja": "AutoClick Veículos",
+            "valor": 118671.61670349544,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 14,
+            "loja": "AutoClick Veículos",
+            "valor": 76297.61097172339,
+            "status": "Parado",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 16,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 15,
+            "loja": "FastCred Financiamentos",
+            "valor": 178563.48546589707,
+            "status": "Parado",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 26,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 16,
+            "loja": "Vip Veículos",
+            "valor": 108607.85601786624,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 17,
+            "loja": "Vip Veículos",
+            "valor": 102485.42563239847,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 18,
+            "loja": "TopCar Revenda",
+            "valor": 171908.0785234623,
+            "status": "Parado",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 23,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 19,
+            "loja": "AutoClick Veículos",
+            "valor": 50465.50834017458,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 20,
+            "loja": "TopCar Revenda",
+            "valor": 137954.04525251949,
+            "status": "Parado",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 21,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 21,
+            "loja": "TopCar Revenda",
+            "valor": 31387.541827164318,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 22,
+            "loja": "Vip Veículos",
+            "valor": 88211.54610110272,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 23,
+            "loja": "Elite Autos",
+            "valor": 199571.7280689444,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 24,
+            "loja": "Global Motors",
+            "valor": 122769.3751542818,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 25,
+            "loja": "FastCred Financiamentos",
+            "valor": 189955.6747195863,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 26,
+            "loja": "Elite Autos",
+            "valor": 115850.70110401974,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 27,
+            "loja": "AutoClick Veículos",
+            "valor": 156654.73050629397,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 28,
+            "loja": "Vip Veículos",
+            "valor": 160944.06031694007,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 29,
+            "loja": "Global Motors",
+            "valor": 123710.84972659584,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 30,
+            "loja": "AutoClick Veículos",
+            "valor": 28446.161343915745,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 31,
+            "loja": "Global Motors",
+            "valor": 97940.95221216865,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 32,
+            "loja": "FastCred Financiamentos",
+            "valor": 102657.62690197949,
+            "status": "Concluído",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 33,
+            "loja": "AutoClick Veículos",
+            "valor": 177091.0242282523,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 34,
+            "loja": "AutoClick Veículos",
+            "valor": 146197.62423405267,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 35,
+            "loja": "AutoClick Veículos",
+            "valor": 102725.24129633368,
+            "status": "Parado",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 29,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 36,
+            "loja": "Vip Veículos",
+            "valor": 131518.42651686422,
+            "status": "Parado",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 30,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 37,
+            "loja": "Global Motors",
+            "valor": 52113.64333428893,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 38,
+            "loja": "Elite Autos",
+            "valor": 55783.5185244105,
+            "status": "Parado",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 22,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 39,
+            "loja": "Elite Autos",
+            "valor": 176254.45189085728,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 40,
+            "loja": "Global Motors",
+            "valor": 128429.5467018044,
+            "status": "Parado",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 27,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 41,
+            "loja": "AutoClick Veículos",
+            "valor": 28520.671199796943,
+            "status": "Concluído",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 42,
+            "loja": "FastCred Financiamentos",
+            "valor": 45609.82908562879,
+            "status": "Parado",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 27,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 43,
+            "loja": "Vip Veículos",
+            "valor": 61699.759980427465,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 44,
+            "loja": "Vip Veículos",
+            "valor": 45156.56673597303,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 45,
+            "loja": "Vip Veículos",
+            "valor": 140378.32539972736,
+            "status": "Concluído",
+            "data_inicio": "2026-05-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 46,
+            "loja": "FastCred Financiamentos",
+            "valor": 51115.70980110644,
+            "status": "Parado",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 13,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 47,
+            "loja": "Elite Autos",
+            "valor": 55718.64163264214,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 48,
+            "loja": "Elite Autos",
+            "valor": 94479.98905443853,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 49,
+            "loja": "Elite Autos",
+            "valor": 107684.23587638332,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 50,
+            "loja": "TopCar Revenda",
+            "valor": 50178.32843534526,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 51,
+            "loja": "Vip Veículos",
+            "valor": 57662.92037505314,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 52,
+            "loja": "TopCar Revenda",
+            "valor": 181704.332844518,
+            "status": "Parado",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 34,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 53,
+            "loja": "Elite Autos",
+            "valor": 72714.23767455175,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 54,
+            "loja": "AutoClick Veículos",
+            "valor": 51138.29504758284,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 55,
+            "loja": "FastCred Financiamentos",
+            "valor": 100700.4504925615,
+            "status": "Concluído",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 56,
+            "loja": "Vip Veículos",
+            "valor": 151904.0094783838,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 57,
+            "loja": "TopCar Revenda",
+            "valor": 29452.105055079726,
+            "status": "Parado",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 5,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 58,
+            "loja": "TopCar Revenda",
+            "valor": 178463.96521705994,
+            "status": "Parado",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 27,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 59,
+            "loja": "Vip Veículos",
+            "valor": 80222.20317822346,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 60,
+            "loja": "Vip Veículos",
+            "valor": 107251.11832797836,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 61,
+            "loja": "Vip Veículos",
+            "valor": 191259.011515443,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 62,
+            "loja": "Global Motors",
+            "valor": 23517.26952894562,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 63,
+            "loja": "Global Motors",
+            "valor": 139029.17442657216,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 64,
+            "loja": "TopCar Revenda",
+            "valor": 71420.77997083255,
+            "status": "Concluído",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 65,
+            "loja": "Vip Veículos",
+            "valor": 62911.86743102481,
+            "status": "Parado",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 41,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 66,
+            "loja": "AutoClick Veículos",
+            "valor": 118788.90758870333,
+            "status": "Concluído",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 67,
+            "loja": "TopCar Revenda",
+            "valor": 199964.5003972317,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 68,
+            "loja": "TopCar Revenda",
+            "valor": 26712.183262623905,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 69,
+            "loja": "Global Motors",
+            "valor": 160073.2164660309,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 70,
+            "loja": "AutoClick Veículos",
+            "valor": 127793.2035358515,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 71,
+            "loja": "FastCred Financiamentos",
+            "valor": 60418.78370861021,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 72,
+            "loja": "Global Motors",
+            "valor": 186826.15266037692,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 73,
+            "loja": "TopCar Revenda",
+            "valor": 98667.5050556293,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 74,
+            "loja": "Global Motors",
+            "valor": 176553.04596341122,
+            "status": "Concluído",
+            "data_inicio": "2026-04-07",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 75,
+            "loja": "Elite Autos",
+            "valor": 69473.37062017134,
+            "status": "Concluído",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 76,
+            "loja": "TopCar Revenda",
+            "valor": 105549.5242478978,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 77,
+            "loja": "Vip Veículos",
+            "valor": 184932.72094181768,
+            "status": "Concluído",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 78,
+            "loja": "Elite Autos",
+            "valor": 87848.29595280139,
+            "status": "Concluído",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 79,
+            "loja": "AutoClick Veículos",
+            "valor": 50167.31277712005,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 80,
+            "loja": "Global Motors",
+            "valor": 187744.82901038427,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 81,
+            "loja": "Global Motors",
+            "valor": 163929.80428549356,
+            "status": "Parado",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 1,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 82,
+            "loja": "TopCar Revenda",
+            "valor": 131012.21490783583,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 83,
+            "loja": "TopCar Revenda",
+            "valor": 173520.29745771785,
+            "status": "Parado",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 14,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 84,
+            "loja": "Global Motors",
+            "valor": 126197.69826007486,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 85,
+            "loja": "Elite Autos",
+            "valor": 185001.11123434012,
+            "status": "Concluído",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 86,
+            "loja": "TopCar Revenda",
+            "valor": 169673.58900095808,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 87,
+            "loja": "TopCar Revenda",
+            "valor": 34996.93393456992,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 88,
+            "loja": "Global Motors",
+            "valor": 184268.40145124527,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 89,
+            "loja": "FastCred Financiamentos",
+            "valor": 88490.51963523259,
+            "status": "Parado",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 6,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 90,
+            "loja": "TopCar Revenda",
+            "valor": 191569.01720747372,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 91,
+            "loja": "AutoClick Veículos",
+            "valor": 137917.31620356816,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 92,
+            "loja": "Elite Autos",
+            "valor": 158329.78481076052,
+            "status": "Parado",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 7,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 93,
+            "loja": "Elite Autos",
+            "valor": 83367.9411560096,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 94,
+            "loja": "Vip Veículos",
+            "valor": 194743.1778173545,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 95,
+            "loja": "Global Motors",
+            "valor": 179213.8445020364,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 96,
+            "loja": "Vip Veículos",
+            "valor": 184641.6256305968,
+            "status": "Parado",
+            "data_inicio": "2026-04-07",
+            "dias_parado": 45,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 97,
+            "loja": "AutoClick Veículos",
+            "valor": 126756.74871176187,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 98,
+            "loja": "Elite Autos",
+            "valor": 192042.11626404047,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 99,
+            "loja": "FastCred Financiamentos",
+            "valor": 98830.5122016106,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 100,
+            "loja": "Elite Autos",
+            "valor": 194305.64135231025,
+            "status": "Concluído",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 101,
+            "loja": "TopCar Revenda",
+            "valor": 28620.17593781683,
+            "status": "Parado",
+            "data_inicio": "2026-05-12",
+            "dias_parado": 10,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 102,
+            "loja": "Elite Autos",
+            "valor": 54388.57079543414,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 103,
+            "loja": "AutoClick Veículos",
+            "valor": 51650.43334828853,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 104,
+            "loja": "Elite Autos",
+            "valor": 155977.8118781477,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 105,
+            "loja": "FastCred Financiamentos",
+            "valor": 122058.9118894124,
+            "status": "Parado",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 31,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 106,
+            "loja": "Global Motors",
+            "valor": 67790.42365787811,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 107,
+            "loja": "FastCred Financiamentos",
+            "valor": 130591.27790054386,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 108,
+            "loja": "AutoClick Veículos",
+            "valor": 75134.30637834514,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 109,
+            "loja": "AutoClick Veículos",
+            "valor": 144070.78298200056,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 110,
+            "loja": "Global Motors",
+            "valor": 187904.20987216465,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 111,
+            "loja": "Global Motors",
+            "valor": 139512.39714708927,
+            "status": "Concluído",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 112,
+            "loja": "Global Motors",
+            "valor": 70557.15207052711,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 113,
+            "loja": "Elite Autos",
+            "valor": 185706.6017836925,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 114,
+            "loja": "TopCar Revenda",
+            "valor": 20041.6334268226,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 115,
+            "loja": "AutoClick Veículos",
+            "valor": 136039.3693664506,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 116,
+            "loja": "TopCar Revenda",
+            "valor": 26379.13199263005,
+            "status": "Concluído",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 117,
+            "loja": "AutoClick Veículos",
+            "valor": 155644.1808533222,
+            "status": "Parado",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 1,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 118,
+            "loja": "AutoClick Veículos",
+            "valor": 137591.1462936705,
+            "status": "Parado",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 27,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 119,
+            "loja": "FastCred Financiamentos",
+            "valor": 172797.86107741712,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 120,
+            "loja": "AutoClick Veículos",
+            "valor": 144397.47759857817,
+            "status": "Concluído",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 121,
+            "loja": "Vip Veículos",
+            "valor": 114701.17582772282,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 122,
+            "loja": "AutoClick Veículos",
+            "valor": 148182.9571072906,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 123,
+            "loja": "Global Motors",
+            "valor": 106762.57100739553,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 124,
+            "loja": "FastCred Financiamentos",
+            "valor": 160562.27759133972,
+            "status": "Concluído",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 125,
+            "loja": "Global Motors",
+            "valor": 106097.51976503928,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 126,
+            "loja": "Elite Autos",
+            "valor": 35995.734378332614,
+            "status": "Parado",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 34,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 127,
+            "loja": "TopCar Revenda",
+            "valor": 50144.80494970629,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 128,
+            "loja": "Vip Veículos",
+            "valor": 179766.6456120089,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 129,
+            "loja": "Global Motors",
+            "valor": 73402.46381312658,
+            "status": "Parado",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 41,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 130,
+            "loja": "FastCred Financiamentos",
+            "valor": 86314.96556577868,
+            "status": "Concluído",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 131,
+            "loja": "Global Motors",
+            "valor": 160691.12083787992,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 132,
+            "loja": "Elite Autos",
+            "valor": 87423.99993756207,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 133,
+            "loja": "TopCar Revenda",
+            "valor": 180134.49433788465,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 134,
+            "loja": "TopCar Revenda",
+            "valor": 109544.23182015636,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 135,
+            "loja": "TopCar Revenda",
+            "valor": 32329.59447158635,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 136,
+            "loja": "AutoClick Veículos",
+            "valor": 54314.38019312036,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 137,
+            "loja": "FastCred Financiamentos",
+            "valor": 104047.5821727568,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 138,
+            "loja": "Global Motors",
+            "valor": 94257.29278328986,
+            "status": "Parado",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 20,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 139,
+            "loja": "Elite Autos",
+            "valor": 31795.25834056605,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 140,
+            "loja": "Elite Autos",
+            "valor": 190755.3292160538,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 141,
+            "loja": "Vip Veículos",
+            "valor": 133694.16130037582,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 142,
+            "loja": "Global Motors",
+            "valor": 23363.52160216605,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 143,
+            "loja": "FastCred Financiamentos",
+            "valor": 174280.6814996832,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 144,
+            "loja": "TopCar Revenda",
+            "valor": 111330.27936849116,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 145,
+            "loja": "Vip Veículos",
+            "valor": 70338.12211870663,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 146,
+            "loja": "TopCar Revenda",
+            "valor": 190505.76780421849,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 147,
+            "loja": "Global Motors",
+            "valor": 102532.31667956336,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 148,
+            "loja": "TopCar Revenda",
+            "valor": 60078.624238739525,
+            "status": "Parado",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 36,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 149,
+            "loja": "Elite Autos",
+            "valor": 60248.98308852735,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 150,
+            "loja": "TopCar Revenda",
+            "valor": 160121.76552249046,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 151,
+            "loja": "Elite Autos",
+            "valor": 60952.8935598109,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 152,
+            "loja": "TopCar Revenda",
+            "valor": 194906.77648471628,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 153,
+            "loja": "AutoClick Veículos",
+            "valor": 65807.95417525884,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 154,
+            "loja": "Vip Veículos",
+            "valor": 99471.40115175562,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 155,
+            "loja": "Vip Veículos",
+            "valor": 198394.490698724,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 156,
+            "loja": "Elite Autos",
+            "valor": 123231.65742736727,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 157,
+            "loja": "Global Motors",
+            "valor": 155620.8613287367,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 158,
+            "loja": "Global Motors",
+            "valor": 88106.07762439715,
+            "status": "Parado",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 4,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 159,
+            "loja": "Vip Veículos",
+            "valor": 138946.95885204093,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 160,
+            "loja": "TopCar Revenda",
+            "valor": 174577.68037460826,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 161,
+            "loja": "TopCar Revenda",
+            "valor": 167846.57780341408,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 162,
+            "loja": "Elite Autos",
+            "valor": 27072.2053026331,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 163,
+            "loja": "Global Motors",
+            "valor": 89688.78158324213,
+            "status": "Parado",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 7,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 164,
+            "loja": "TopCar Revenda",
+            "valor": 191790.4980534437,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 165,
+            "loja": "Elite Autos",
+            "valor": 148553.144361188,
+            "status": "Concluído",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 166,
+            "loja": "Elite Autos",
+            "valor": 164065.0156871504,
+            "status": "Concluído",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 167,
+            "loja": "Elite Autos",
+            "valor": 65540.26575842894,
+            "status": "Parado",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 35,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 168,
+            "loja": "TopCar Revenda",
+            "valor": 23258.73999885685,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 169,
+            "loja": "TopCar Revenda",
+            "valor": 165619.94875779533,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 170,
+            "loja": "Elite Autos",
+            "valor": 46214.26636686461,
+            "status": "Parado",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 26,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 171,
+            "loja": "Vip Veículos",
+            "valor": 103464.71198078975,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 172,
+            "loja": "Vip Veículos",
+            "valor": 42608.42084417355,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 173,
+            "loja": "AutoClick Veículos",
+            "valor": 49025.04940937923,
+            "status": "Parado",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 6,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 174,
+            "loja": "Vip Veículos",
+            "valor": 23393.795013228715,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 175,
+            "loja": "TopCar Revenda",
+            "valor": 136231.46723476885,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 176,
+            "loja": "Global Motors",
+            "valor": 145881.13232549827,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 177,
+            "loja": "Elite Autos",
+            "valor": 70873.23408467445,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 178,
+            "loja": "Global Motors",
+            "valor": 124071.53277727186,
+            "status": "Parado",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 26,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 179,
+            "loja": "Global Motors",
+            "valor": 191989.70129732383,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 180,
+            "loja": "FastCred Financiamentos",
+            "valor": 164110.8608591982,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 181,
+            "loja": "Elite Autos",
+            "valor": 191991.85790574964,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 182,
+            "loja": "AutoClick Veículos",
+            "valor": 152360.07731842948,
+            "status": "Parado",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 25,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 183,
+            "loja": "Elite Autos",
+            "valor": 97709.2565830896,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 184,
+            "loja": "TopCar Revenda",
+            "valor": 179113.04564238177,
+            "status": "Parado",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 28,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 185,
+            "loja": "Global Motors",
+            "valor": 75011.89565961601,
+            "status": "Concluído",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 186,
+            "loja": "Vip Veículos",
+            "valor": 179850.31431584424,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 187,
+            "loja": "FastCred Financiamentos",
+            "valor": 20768.97955870341,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 188,
+            "loja": "Global Motors",
+            "valor": 56648.647117092274,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 189,
+            "loja": "Elite Autos",
+            "valor": 152520.4858137503,
+            "status": "Parado",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 37,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 190,
+            "loja": "AutoClick Veículos",
+            "valor": 116272.5496118663,
+            "status": "Parado",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 17,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 191,
+            "loja": "TopCar Revenda",
+            "valor": 52997.01557754829,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 192,
+            "loja": "Vip Veículos",
+            "valor": 31618.61678623668,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 193,
+            "loja": "FastCred Financiamentos",
+            "valor": 194060.7145253592,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 194,
+            "loja": "Vip Veículos",
+            "valor": 147987.44306444156,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 195,
+            "loja": "Elite Autos",
+            "valor": 117232.21209956132,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 196,
+            "loja": "Elite Autos",
+            "valor": 45150.87502626922,
+            "status": "Parado",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 6,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 197,
+            "loja": "Global Motors",
+            "valor": 28160.89821452574,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 198,
+            "loja": "Vip Veículos",
+            "valor": 94044.48987224318,
+            "status": "Parado",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 20,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 199,
+            "loja": "AutoClick Veículos",
+            "valor": 171037.4492835817,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 200,
+            "loja": "Elite Autos",
+            "valor": 101190.87357331192,
+            "status": "Parado",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 33,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 201,
+            "loja": "AutoClick Veículos",
+            "valor": 122552.12187679984,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 202,
+            "loja": "TopCar Revenda",
+            "valor": 180803.83013346608,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 203,
+            "loja": "TopCar Revenda",
+            "valor": 108537.81703944036,
+            "status": "Concluído",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 204,
+            "loja": "AutoClick Veículos",
+            "valor": 198813.1018390057,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 205,
+            "loja": "Global Motors",
+            "valor": 53878.2560438777,
+            "status": "Concluído",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 206,
+            "loja": "Vip Veículos",
+            "valor": 181523.1892435212,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 207,
+            "loja": "AutoClick Veículos",
+            "valor": 159321.62536091925,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 208,
+            "loja": "TopCar Revenda",
+            "valor": 37859.43931412335,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 209,
+            "loja": "Elite Autos",
+            "valor": 86961.23484437617,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 210,
+            "loja": "FastCred Financiamentos",
+            "valor": 107209.83816235824,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 211,
+            "loja": "Vip Veículos",
+            "valor": 103469.18140820482,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 212,
+            "loja": "Elite Autos",
+            "valor": 81992.12509776582,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 213,
+            "loja": "FastCred Financiamentos",
+            "valor": 150101.48208086457,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 214,
+            "loja": "Global Motors",
+            "valor": 66424.6504331119,
+            "status": "Parado",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 17,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 215,
+            "loja": "AutoClick Veículos",
+            "valor": 186692.51289910707,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 216,
+            "loja": "TopCar Revenda",
+            "valor": 96376.78043194878,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 217,
+            "loja": "Elite Autos",
+            "valor": 185872.1240911956,
+            "status": "Concluído",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 218,
+            "loja": "AutoClick Veículos",
+            "valor": 151304.64619046528,
+            "status": "Concluído",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 219,
+            "loja": "TopCar Revenda",
+            "valor": 158953.75066319207,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 220,
+            "loja": "AutoClick Veículos",
+            "valor": 33008.12739148201,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 221,
+            "loja": "Elite Autos",
+            "valor": 190669.0873394941,
+            "status": "Concluído",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 222,
+            "loja": "Global Motors",
+            "valor": 49346.555280982735,
+            "status": "Parado",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 5,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 223,
+            "loja": "Global Motors",
+            "valor": 97227.44665423431,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 224,
+            "loja": "Vip Veículos",
+            "valor": 182217.67779460925,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 225,
+            "loja": "Global Motors",
+            "valor": 123333.47685857108,
+            "status": "Parado",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 1,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 226,
+            "loja": "Vip Veículos",
+            "valor": 32642.48685724193,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 227,
+            "loja": "Elite Autos",
+            "valor": 126667.31424922314,
+            "status": "Parado",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 27,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 228,
+            "loja": "FastCred Financiamentos",
+            "valor": 135831.03286045033,
+            "status": "Concluído",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 229,
+            "loja": "Vip Veículos",
+            "valor": 57398.84874218891,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 230,
+            "loja": "Vip Veículos",
+            "valor": 124968.07233773846,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 231,
+            "loja": "FastCred Financiamentos",
+            "valor": 80266.88790631898,
+            "status": "Concluído",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 232,
+            "loja": "TopCar Revenda",
+            "valor": 115394.03304724954,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 233,
+            "loja": "AutoClick Veículos",
+            "valor": 22518.115456845797,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 234,
+            "loja": "AutoClick Veículos",
+            "valor": 22108.017046885223,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 235,
+            "loja": "Global Motors",
+            "valor": 157411.0095571251,
+            "status": "Parado",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 24,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 236,
+            "loja": "Global Motors",
+            "valor": 116336.78931555078,
+            "status": "Parado",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 12,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 237,
+            "loja": "AutoClick Veículos",
+            "valor": 83056.34837586674,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 238,
+            "loja": "Vip Veículos",
+            "valor": 85519.60564827676,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 239,
+            "loja": "Vip Veículos",
+            "valor": 111721.09638118716,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 240,
+            "loja": "Global Motors",
+            "valor": 68590.43612557295,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 241,
+            "loja": "FastCred Financiamentos",
+            "valor": 62696.10319551233,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 242,
+            "loja": "TopCar Revenda",
+            "valor": 184288.9593212663,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 243,
+            "loja": "FastCred Financiamentos",
+            "valor": 101631.45739414488,
+            "status": "Concluído",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 244,
+            "loja": "Vip Veículos",
+            "valor": 172718.97262904886,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 245,
+            "loja": "FastCred Financiamentos",
+            "valor": 183079.4868311012,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 246,
+            "loja": "TopCar Revenda",
+            "valor": 119341.3097991478,
+            "status": "Parado",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 40,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 247,
+            "loja": "FastCred Financiamentos",
+            "valor": 98285.96493723051,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 248,
+            "loja": "TopCar Revenda",
+            "valor": 137922.65829456717,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 249,
+            "loja": "AutoClick Veículos",
+            "valor": 126404.6961200986,
+            "status": "Parado",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 37,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 250,
+            "loja": "AutoClick Veículos",
+            "valor": 150360.18465743773,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 251,
+            "loja": "Elite Autos",
+            "valor": 97178.48831180672,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 252,
+            "loja": "Elite Autos",
+            "valor": 124037.3613732104,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 253,
+            "loja": "Vip Veículos",
+            "valor": 42043.38154900471,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 254,
+            "loja": "FastCred Financiamentos",
+            "valor": 166667.2638724998,
+            "status": "Concluído",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 255,
+            "loja": "AutoClick Veículos",
+            "valor": 153454.56848899668,
+            "status": "Parado",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 6,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 256,
+            "loja": "Vip Veículos",
+            "valor": 146311.38192465575,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 257,
+            "loja": "TopCar Revenda",
+            "valor": 59789.812130179824,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 258,
+            "loja": "Global Motors",
+            "valor": 185937.65780764623,
+            "status": "Concluído",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 259,
+            "loja": "Global Motors",
+            "valor": 61793.57901496335,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 260,
+            "loja": "Vip Veículos",
+            "valor": 119557.35674425992,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 261,
+            "loja": "Elite Autos",
+            "valor": 126627.4000230488,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 262,
+            "loja": "FastCred Financiamentos",
+            "valor": 194721.63481828815,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 263,
+            "loja": "FastCred Financiamentos",
+            "valor": 192140.76666690403,
+            "status": "Parado",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 11,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 264,
+            "loja": "Elite Autos",
+            "valor": 47978.77397533992,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 265,
+            "loja": "Vip Veículos",
+            "valor": 176399.5987237622,
+            "status": "Concluído",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 266,
+            "loja": "Vip Veículos",
+            "valor": 46931.88584381492,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 267,
+            "loja": "TopCar Revenda",
+            "valor": 175291.45872202094,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 268,
+            "loja": "Vip Veículos",
+            "valor": 198227.0178447927,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 269,
+            "loja": "AutoClick Veículos",
+            "valor": 77910.68107161464,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 270,
+            "loja": "Global Motors",
+            "valor": 129875.83523390329,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 271,
+            "loja": "Elite Autos",
+            "valor": 142476.09106453654,
+            "status": "Concluído",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 272,
+            "loja": "FastCred Financiamentos",
+            "valor": 114848.4361650928,
+            "status": "Concluído",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 273,
+            "loja": "Global Motors",
+            "valor": 41488.52556141402,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 274,
+            "loja": "AutoClick Veículos",
+            "valor": 158599.02620629646,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 275,
+            "loja": "TopCar Revenda",
+            "valor": 174096.79006308323,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 276,
+            "loja": "Vip Veículos",
+            "valor": 69193.01460438932,
+            "status": "Parado",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 41,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 277,
+            "loja": "FastCred Financiamentos",
+            "valor": 73554.6192475738,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 278,
+            "loja": "FastCred Financiamentos",
+            "valor": 25822.81528312932,
+            "status": "Concluído",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 279,
+            "loja": "Vip Veículos",
+            "valor": 100651.81640275542,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 280,
+            "loja": "Global Motors",
+            "valor": 28715.476613178784,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 281,
+            "loja": "Global Motors",
+            "valor": 175513.33559570837,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 282,
+            "loja": "FastCred Financiamentos",
+            "valor": 42346.93653476383,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 283,
+            "loja": "TopCar Revenda",
+            "valor": 167003.42060388124,
+            "status": "Parado",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 18,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 284,
+            "loja": "Vip Veículos",
+            "valor": 175920.84227950044,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 285,
+            "loja": "AutoClick Veículos",
+            "valor": 40535.89047914952,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 286,
+            "loja": "FastCred Financiamentos",
+            "valor": 167829.10778267382,
+            "status": "Parado",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 35,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 287,
+            "loja": "FastCred Financiamentos",
+            "valor": 138456.2188398143,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 288,
+            "loja": "FastCred Financiamentos",
+            "valor": 197483.3846667073,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 289,
+            "loja": "TopCar Revenda",
+            "valor": 92535.14503546651,
+            "status": "Concluído",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 290,
+            "loja": "Elite Autos",
+            "valor": 184666.00082128044,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 291,
+            "loja": "FastCred Financiamentos",
+            "valor": 131725.23334895115,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 292,
+            "loja": "Global Motors",
+            "valor": 97597.69131475706,
+            "status": "Concluído",
+            "data_inicio": "2026-04-27",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 293,
+            "loja": "Vip Veículos",
+            "valor": 160249.64638121185,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 294,
+            "loja": "AutoClick Veículos",
+            "valor": 126781.3792003626,
+            "status": "Concluído",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 295,
+            "loja": "AutoClick Veículos",
+            "valor": 106744.42266481434,
+            "status": "Concluído",
+            "data_inicio": "2026-05-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 296,
+            "loja": "FastCred Financiamentos",
+            "valor": 162314.7609213446,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 297,
+            "loja": "AutoClick Veículos",
+            "valor": 154480.8367103417,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 298,
+            "loja": "AutoClick Veículos",
+            "valor": 184326.3279769641,
+            "status": "Concluído",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 299,
+            "loja": "Vip Veículos",
+            "valor": 46340.9423597604,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 300,
+            "loja": "FastCred Financiamentos",
+            "valor": 29177.56039375547,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 301,
+            "loja": "Elite Autos",
+            "valor": 131800.03686763562,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 302,
+            "loja": "Elite Autos",
+            "valor": 182915.34287527125,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 303,
+            "loja": "FastCred Financiamentos",
+            "valor": 114466.22469700708,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 304,
+            "loja": "Elite Autos",
+            "valor": 70203.78196738934,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 305,
+            "loja": "Elite Autos",
+            "valor": 90670.70538207843,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 306,
+            "loja": "AutoClick Veículos",
+            "valor": 157690.45222512298,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 307,
+            "loja": "TopCar Revenda",
+            "valor": 120512.67101769173,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 308,
+            "loja": "Vip Veículos",
+            "valor": 103802.82003557638,
+            "status": "Parado",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 19,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 309,
+            "loja": "TopCar Revenda",
+            "valor": 140796.89551411354,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 310,
+            "loja": "TopCar Revenda",
+            "valor": 74170.59922027586,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 311,
+            "loja": "Global Motors",
+            "valor": 55403.75853629841,
+            "status": "Concluído",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 312,
+            "loja": "TopCar Revenda",
+            "valor": 64136.28276101698,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 313,
+            "loja": "AutoClick Veículos",
+            "valor": 175242.4234728075,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 314,
+            "loja": "FastCred Financiamentos",
+            "valor": 198272.71805669524,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 315,
+            "loja": "TopCar Revenda",
+            "valor": 112086.69327192951,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 316,
+            "loja": "TopCar Revenda",
+            "valor": 30544.87948245673,
+            "status": "Concluído",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 317,
+            "loja": "Vip Veículos",
+            "valor": 96730.82251816952,
+            "status": "Concluído",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 318,
+            "loja": "Global Motors",
+            "valor": 25554.417254236698,
+            "status": "Parado",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 5,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 319,
+            "loja": "Elite Autos",
+            "valor": 189166.46374544676,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 320,
+            "loja": "FastCred Financiamentos",
+            "valor": 65358.46697965149,
+            "status": "Parado",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 39,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 321,
+            "loja": "FastCred Financiamentos",
+            "valor": 136115.92584097656,
+            "status": "Parado",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 28,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 322,
+            "loja": "FastCred Financiamentos",
+            "valor": 129276.69138074892,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 323,
+            "loja": "AutoClick Veículos",
+            "valor": 183853.5512026576,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 324,
+            "loja": "AutoClick Veículos",
+            "valor": 114982.90531235957,
+            "status": "Concluído",
+            "data_inicio": "2026-05-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 325,
+            "loja": "TopCar Revenda",
+            "valor": 99794.42447742024,
+            "status": "Parado",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 14,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 326,
+            "loja": "FastCred Financiamentos",
+            "valor": 62632.03068869764,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 327,
+            "loja": "Global Motors",
+            "valor": 49911.31957287603,
+            "status": "Concluído",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 328,
+            "loja": "Vip Veículos",
+            "valor": 96260.3473539195,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 329,
+            "loja": "AutoClick Veículos",
+            "valor": 98663.19506502186,
+            "status": "Concluído",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 330,
+            "loja": "AutoClick Veículos",
+            "valor": 77983.01296807273,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 331,
+            "loja": "Global Motors",
+            "valor": 42890.09186363623,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 332,
+            "loja": "TopCar Revenda",
+            "valor": 75784.1383982623,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 333,
+            "loja": "TopCar Revenda",
+            "valor": 42143.38887284188,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 334,
+            "loja": "AutoClick Veículos",
+            "valor": 64656.451164721024,
+            "status": "Parado",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 1,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 335,
+            "loja": "TopCar Revenda",
+            "valor": 130466.76264503768,
+            "status": "Concluído",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 336,
+            "loja": "TopCar Revenda",
+            "valor": 184458.18387666988,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 337,
+            "loja": "Elite Autos",
+            "valor": 123968.06538901654,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 338,
+            "loja": "Vip Veículos",
+            "valor": 178899.514227253,
+            "status": "Parado",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 32,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 339,
+            "loja": "FastCred Financiamentos",
+            "valor": 50885.41503909391,
+            "status": "Parado",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 3,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 340,
+            "loja": "TopCar Revenda",
+            "valor": 164859.9517713249,
+            "status": "Parado",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 42,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 341,
+            "loja": "Global Motors",
+            "valor": 88051.52669535574,
+            "status": "Concluído",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 342,
+            "loja": "FastCred Financiamentos",
+            "valor": 42166.30695528592,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 343,
+            "loja": "Global Motors",
+            "valor": 31044.46559465186,
+            "status": "Concluído",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 344,
+            "loja": "Global Motors",
+            "valor": 30521.750097360346,
+            "status": "Concluído",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 345,
+            "loja": "TopCar Revenda",
+            "valor": 169644.69019698992,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 346,
+            "loja": "TopCar Revenda",
+            "valor": 139316.61682544887,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 347,
+            "loja": "Vip Veículos",
+            "valor": 50171.19632534312,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 348,
+            "loja": "Global Motors",
+            "valor": 172676.72657182778,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 349,
+            "loja": "AutoClick Veículos",
+            "valor": 39757.36457377346,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 350,
+            "loja": "Global Motors",
+            "valor": 85948.50080343378,
+            "status": "Concluído",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 351,
+            "loja": "FastCred Financiamentos",
+            "valor": 140837.4871628257,
+            "status": "Parado",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 34,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 352,
+            "loja": "TopCar Revenda",
+            "valor": 26115.75386841055,
+            "status": "Parado",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 11,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 353,
+            "loja": "FastCred Financiamentos",
+            "valor": 104966.3627409764,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 354,
+            "loja": "Global Motors",
+            "valor": 36016.305841213485,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 355,
+            "loja": "Vip Veículos",
+            "valor": 91641.8057600987,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 356,
+            "loja": "Global Motors",
+            "valor": 69486.38179652172,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 357,
+            "loja": "FastCred Financiamentos",
+            "valor": 64246.75198063218,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 358,
+            "loja": "TopCar Revenda",
+            "valor": 181339.829171988,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 359,
+            "loja": "Vip Veículos",
+            "valor": 175466.50493857948,
+            "status": "Concluído",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 360,
+            "loja": "Elite Autos",
+            "valor": 67782.34066207233,
+            "status": "Concluído",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 361,
+            "loja": "Global Motors",
+            "valor": 71144.45407177045,
+            "status": "Concluído",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 362,
+            "loja": "FastCred Financiamentos",
+            "valor": 168924.94490162967,
+            "status": "Concluído",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 363,
+            "loja": "Vip Veículos",
+            "valor": 149810.41441321146,
+            "status": "Concluído",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 364,
+            "loja": "Elite Autos",
+            "valor": 69963.88658042502,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 365,
+            "loja": "Elite Autos",
+            "valor": 112264.12813788543,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 366,
+            "loja": "FastCred Financiamentos",
+            "valor": 80015.59431484118,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 367,
+            "loja": "Global Motors",
+            "valor": 102915.4576349791,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 368,
+            "loja": "AutoClick Veículos",
+            "valor": 107404.32583951631,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 369,
+            "loja": "Global Motors",
+            "valor": 36072.88666095484,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 370,
+            "loja": "TopCar Revenda",
+            "valor": 178584.05473318027,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 371,
+            "loja": "Elite Autos",
+            "valor": 178797.7772394331,
+            "status": "Parado",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 21,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 372,
+            "loja": "Elite Autos",
+            "valor": 41698.2785143341,
+            "status": "Parado",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 1,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 373,
+            "loja": "TopCar Revenda",
+            "valor": 46884.97417338203,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 374,
+            "loja": "Elite Autos",
+            "valor": 160133.07042190907,
+            "status": "Concluído",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 375,
+            "loja": "TopCar Revenda",
+            "valor": 88601.36168804266,
+            "status": "Concluído",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 376,
+            "loja": "Elite Autos",
+            "valor": 150821.81356623498,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 377,
+            "loja": "TopCar Revenda",
+            "valor": 150005.82841435433,
+            "status": "Concluído",
+            "data_inicio": "2026-04-22",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 378,
+            "loja": "Global Motors",
+            "valor": 70391.4096576705,
+            "status": "Concluído",
+            "data_inicio": "2026-04-26",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 379,
+            "loja": "Global Motors",
+            "valor": 189557.5049573924,
+            "status": "Concluído",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 380,
+            "loja": "AutoClick Veículos",
+            "valor": 144015.6874064344,
+            "status": "Concluído",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 381,
+            "loja": "AutoClick Veículos",
+            "valor": 119330.13315289948,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 382,
+            "loja": "FastCred Financiamentos",
+            "valor": 89116.26166606219,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 383,
+            "loja": "Elite Autos",
+            "valor": 179851.61661438798,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 384,
+            "loja": "Vip Veículos",
+            "valor": 87736.82450119923,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 385,
+            "loja": "TopCar Revenda",
+            "valor": 121861.51334687644,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 386,
+            "loja": "AutoClick Veículos",
+            "valor": 167722.64489886034,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 387,
+            "loja": "FastCred Financiamentos",
+            "valor": 161497.1729273787,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 388,
+            "loja": "FastCred Financiamentos",
+            "valor": 137929.65432533703,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 389,
+            "loja": "FastCred Financiamentos",
+            "valor": 20101.94621813243,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 390,
+            "loja": "Vip Veículos",
+            "valor": 163776.6909136344,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 391,
+            "loja": "Vip Veículos",
+            "valor": 36279.57312413548,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 392,
+            "loja": "Vip Veículos",
+            "valor": 109210.157259861,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 393,
+            "loja": "TopCar Revenda",
+            "valor": 81118.67412553602,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 394,
+            "loja": "FastCred Financiamentos",
+            "valor": 161379.95713074936,
+            "status": "Concluído",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 395,
+            "loja": "AutoClick Veículos",
+            "valor": 30615.32838038744,
+            "status": "Parado",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 16,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 396,
+            "loja": "Elite Autos",
+            "valor": 81507.72292261434,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 397,
+            "loja": "Global Motors",
+            "valor": 71009.82514777995,
+            "status": "Parado",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 5,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 398,
+            "loja": "Global Motors",
+            "valor": 61830.49329618152,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 399,
+            "loja": "Elite Autos",
+            "valor": 67661.24311035863,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 400,
+            "loja": "TopCar Revenda",
+            "valor": 152462.25842010687,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 401,
+            "loja": "Elite Autos",
+            "valor": 76993.40814420271,
+            "status": "Parado",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 36,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 402,
+            "loja": "FastCred Financiamentos",
+            "valor": 103691.62355227822,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 403,
+            "loja": "Elite Autos",
+            "valor": 171566.1904808581,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 404,
+            "loja": "Vip Veículos",
+            "valor": 144048.57760957474,
+            "status": "Concluído",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 405,
+            "loja": "Vip Veículos",
+            "valor": 108874.8714448366,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 406,
+            "loja": "TopCar Revenda",
+            "valor": 197296.9316674543,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 407,
+            "loja": "Vip Veículos",
+            "valor": 98420.78892450665,
+            "status": "Parado",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 28,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 408,
+            "loja": "AutoClick Veículos",
+            "valor": 117295.39980311017,
+            "status": "Concluído",
+            "data_inicio": "2026-04-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 409,
+            "loja": "FastCred Financiamentos",
+            "valor": 168689.86109733797,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 410,
+            "loja": "Elite Autos",
+            "valor": 124889.86516695122,
+            "status": "Parado",
+            "data_inicio": "2026-05-13",
+            "dias_parado": 9,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 411,
+            "loja": "Vip Veículos",
+            "valor": 25523.647477324965,
+            "status": "Parado",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 2,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 412,
+            "loja": "AutoClick Veículos",
+            "valor": 115787.15662084673,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 413,
+            "loja": "Elite Autos",
+            "valor": 189047.64266424807,
+            "status": "Concluído",
+            "data_inicio": "2026-04-07",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 414,
+            "loja": "AutoClick Veículos",
+            "valor": 113151.50914681212,
+            "status": "Parado",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 15,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 415,
+            "loja": "AutoClick Veículos",
+            "valor": 59884.967498436,
+            "status": "Concluído",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 416,
+            "loja": "Global Motors",
+            "valor": 82614.90391599464,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 417,
+            "loja": "Vip Veículos",
+            "valor": 32227.288208381822,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 418,
+            "loja": "Global Motors",
+            "valor": 38011.61137996418,
+            "status": "Parado",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 33,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 419,
+            "loja": "TopCar Revenda",
+            "valor": 96681.19752231451,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 420,
+            "loja": "TopCar Revenda",
+            "valor": 181623.7238039254,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 421,
+            "loja": "Elite Autos",
+            "valor": 121085.29296644004,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 422,
+            "loja": "Vip Veículos",
+            "valor": 155333.07856750002,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-11",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 423,
+            "loja": "Elite Autos",
+            "valor": 142786.3139363184,
+            "status": "Concluído",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 424,
+            "loja": "AutoClick Veículos",
+            "valor": 39655.80456739178,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 425,
+            "loja": "Global Motors",
+            "valor": 46501.663355293626,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 426,
+            "loja": "Elite Autos",
+            "valor": 119419.31804616176,
+            "status": "Parado",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 28,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 427,
+            "loja": "AutoClick Veículos",
+            "valor": 148110.05072568264,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 428,
+            "loja": "Vip Veículos",
+            "valor": 127004.60252983557,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 429,
+            "loja": "Vip Veículos",
+            "valor": 54673.94108459796,
+            "status": "Parado",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 3,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 430,
+            "loja": "TopCar Revenda",
+            "valor": 130416.90244708904,
+            "status": "Parado",
+            "data_inicio": "2026-04-14",
+            "dias_parado": 38,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 431,
+            "loja": "TopCar Revenda",
+            "valor": 22351.12729660559,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 432,
+            "loja": "Vip Veículos",
+            "valor": 101403.06981777202,
+            "status": "Parado",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 5,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 433,
+            "loja": "TopCar Revenda",
+            "valor": 196091.7065663567,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 434,
+            "loja": "Global Motors",
+            "valor": 94627.2420548118,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-29",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 435,
+            "loja": "AutoClick Veículos",
+            "valor": 78222.17682444,
+            "status": "Concluído",
+            "data_inicio": "2026-05-06",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 436,
+            "loja": "AutoClick Veículos",
+            "valor": 44346.0144729324,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 437,
+            "loja": "FastCred Financiamentos",
+            "valor": 57714.69157930134,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 438,
+            "loja": "AutoClick Veículos",
+            "valor": 86352.8300515837,
+            "status": "Parado",
+            "data_inicio": "2026-05-05",
+            "dias_parado": 17,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 439,
+            "loja": "AutoClick Veículos",
+            "valor": 163432.0052122414,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 440,
+            "loja": "AutoClick Veículos",
+            "valor": 43977.63604476073,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 441,
+            "loja": "Global Motors",
+            "valor": 78611.96400472545,
+            "status": "Concluído",
+            "data_inicio": "2026-04-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 442,
+            "loja": "Elite Autos",
+            "valor": 94420.51589747456,
+            "status": "Concluído",
+            "data_inicio": "2026-05-04",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 443,
+            "loja": "Elite Autos",
+            "valor": 192621.3626842788,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 444,
+            "loja": "Global Motors",
+            "valor": 40679.99857390286,
+            "status": "Concluído",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 445,
+            "loja": "Global Motors",
+            "valor": 67876.54075820195,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 446,
+            "loja": "Elite Autos",
+            "valor": 130518.10444798158,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-17",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 447,
+            "loja": "Global Motors",
+            "valor": 29996.28327150217,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 448,
+            "loja": "TopCar Revenda",
+            "valor": 31915.95297011188,
+            "status": "Concluído",
+            "data_inicio": "2026-04-07",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 449,
+            "loja": "TopCar Revenda",
+            "valor": 105246.97884126117,
+            "status": "Concluído",
+            "data_inicio": "2026-04-09",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 450,
+            "loja": "Global Motors",
+            "valor": 120274.2546852898,
+            "status": "Concluído",
+            "data_inicio": "2026-04-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 451,
+            "loja": "FastCred Financiamentos",
+            "valor": 145928.4388897593,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 452,
+            "loja": "Vip Veículos",
+            "valor": 175390.94108676555,
+            "status": "Parado",
+            "data_inicio": "2026-04-30",
+            "dias_parado": 22,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 453,
+            "loja": "Global Motors",
+            "valor": 41310.33807444864,
+            "status": "Concluído",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 454,
+            "loja": "FastCred Financiamentos",
+            "valor": 102605.89181371058,
+            "status": "Concluído",
+            "data_inicio": "2026-04-25",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 455,
+            "loja": "Vip Veículos",
+            "valor": 120659.34402905464,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 456,
+            "loja": "Vip Veículos",
+            "valor": 156311.2152321307,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 457,
+            "loja": "AutoClick Veículos",
+            "valor": 140211.8510780279,
+            "status": "Concluído",
+            "data_inicio": "2026-05-14",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 458,
+            "loja": "Elite Autos",
+            "valor": 190253.8345390445,
+            "status": "Concluído",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 459,
+            "loja": "AutoClick Veículos",
+            "valor": 197738.11992859427,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 460,
+            "loja": "TopCar Revenda",
+            "valor": 155743.58881888507,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 461,
+            "loja": "TopCar Revenda",
+            "valor": 107030.57201907478,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 462,
+            "loja": "Global Motors",
+            "valor": 104646.58486186856,
+            "status": "Parado",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 3,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 463,
+            "loja": "TopCar Revenda",
+            "valor": 103969.13504797513,
+            "status": "Parado",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 31,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 464,
+            "loja": "Global Motors",
+            "valor": 173251.68325889236,
+            "status": "Parado",
+            "data_inicio": "2026-04-13",
+            "dias_parado": 39,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 465,
+            "loja": "AutoClick Veículos",
+            "valor": 84413.11599685621,
+            "status": "Concluído",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 466,
+            "loja": "Global Motors",
+            "valor": 159044.02757527292,
+            "status": "Concluído",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 467,
+            "loja": "FastCred Financiamentos",
+            "valor": 197069.2432775972,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 468,
+            "loja": "FastCred Financiamentos",
+            "valor": 162175.62309489163,
+            "status": "Concluído",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 469,
+            "loja": "Vip Veículos",
+            "valor": 196993.9150155473,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 470,
+            "loja": "FastCred Financiamentos",
+            "valor": 73617.8227905103,
+            "status": "Parado",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 15,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 471,
+            "loja": "FastCred Financiamentos",
+            "valor": 96042.97310026066,
+            "status": "Concluído",
+            "data_inicio": "2026-04-16",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 472,
+            "loja": "TopCar Revenda",
+            "valor": 106585.63850564648,
+            "status": "Parado",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 35,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 473,
+            "loja": "FastCred Financiamentos",
+            "valor": 138272.23434486275,
+            "status": "Parado",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 24,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 474,
+            "loja": "Vip Veículos",
+            "valor": 33153.850212995785,
+            "status": "Concluído",
+            "data_inicio": "2026-05-19",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 475,
+            "loja": "FastCred Financiamentos",
+            "valor": 187165.6471693828,
+            "status": "Concluído",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 476,
+            "loja": "Vip Veículos",
+            "valor": 196936.81675235985,
+            "status": "Parado",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 35,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 477,
+            "loja": "Vip Veículos",
+            "valor": 151737.38536270385,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 478,
+            "loja": "TopCar Revenda",
+            "valor": 156180.05025501008,
+            "status": "Parado",
+            "data_inicio": "2026-05-07",
+            "dias_parado": 15,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 479,
+            "loja": "TopCar Revenda",
+            "valor": 111862.9276985294,
+            "status": "Concluído",
+            "data_inicio": "2026-04-23",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 480,
+            "loja": "Vip Veículos",
+            "valor": 101887.38979578637,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 481,
+            "loja": "Global Motors",
+            "valor": 128135.96356273908,
+            "status": "Parado",
+            "data_inicio": "2026-04-12",
+            "dias_parado": 40,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 482,
+            "loja": "TopCar Revenda",
+            "valor": 55865.70657582548,
+            "status": "Concluído",
+            "data_inicio": "2026-05-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 483,
+            "loja": "TopCar Revenda",
+            "valor": 73622.1876705226,
+            "status": "Concluído",
+            "data_inicio": "2026-04-08",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 484,
+            "loja": "FastCred Financiamentos",
+            "valor": 150159.27813331518,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-21",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 485,
+            "loja": "Elite Autos",
+            "valor": 50646.97763524613,
+            "status": "Concluído",
+            "data_inicio": "2026-04-28",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 486,
+            "loja": "AutoClick Veículos",
+            "valor": 53834.97827769962,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-03",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 487,
+            "loja": "Global Motors",
+            "valor": 91406.02927694656,
+            "status": "Parado",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 7,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 488,
+            "loja": "Global Motors",
+            "valor": 101253.3468891605,
+            "status": "Concluído",
+            "data_inicio": "2026-04-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 489,
+            "loja": "Elite Autos",
+            "valor": 141153.7751719125,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-20",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 490,
+            "loja": "Vip Veículos",
+            "valor": 178246.56230094735,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 491,
+            "loja": "Vip Veículos",
+            "valor": 54520.16389282134,
+            "status": "Concluído",
+            "data_inicio": "2026-05-01",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 492,
+            "loja": "Elite Autos",
+            "valor": 22863.32517447452,
+            "status": "Concluído",
+            "data_inicio": "2026-04-11",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 493,
+            "loja": "FastCred Financiamentos",
+            "valor": 131392.7056828039,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-21",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 494,
+            "loja": "Global Motors",
+            "valor": 155821.4181182352,
+            "status": "Parado",
+            "data_inicio": "2026-04-15",
+            "dias_parado": 37,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 495,
+            "loja": "FastCred Financiamentos",
+            "valor": 112261.391821732,
+            "status": "Concluído",
+            "data_inicio": "2026-05-02",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 496,
+            "loja": "AutoClick Veículos",
+            "valor": 167706.96408466226,
+            "status": "Em Andamento",
+            "data_inicio": "2026-04-24",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 497,
+            "loja": "FastCred Financiamentos",
+            "valor": 72082.07104563332,
+            "status": "Em Andamento",
+            "data_inicio": "2026-05-15",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 498,
+            "loja": "FastCred Financiamentos",
+            "valor": 174824.98435118597,
+            "status": "Concluído",
+            "data_inicio": "2026-05-10",
+            "dias_parado": 0,
+            "margem_risco": "ALTO"
+        },
+        {
+            "id": 499,
+            "loja": "Vip Veículos",
+            "valor": 23896.86305853696,
+            "status": "Concluído",
+            "data_inicio": "2026-05-18",
+            "dias_parado": 0,
+            "margem_risco": "BAIXO"
+        },
+        {
+            "id": 500,
+            "loja": "Elite Autos",
+            "valor": 110677.25467693356,
+            "status": "Parado",
+            "data_inicio": "2026-04-17",
+            "dias_parado": 35,
+            "margem_risco": "ALTO"
+        }
+    ]
+}
