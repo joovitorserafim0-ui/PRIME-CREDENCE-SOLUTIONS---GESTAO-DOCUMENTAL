@@ -11,7 +11,7 @@ O Prime Credence Solutions atua como uma camada de inteligência sobre dados fin
     - **Relatório Executivo (PDF):** Documentação profissional formatada e pronta para apresentação.
     - **Integração Sistêmica (JSON):** Dados estruturados para integração com ferramentas de BI e sistemas legados.
 
-##   Tecnologias Utilizadas
+##  **Ferramentas Utilizadas**
 - **Linguagem:** Python
 - **Manipulação de Dados:** Pandas
 - **Geração de Relatórios:** FPDF
